@@ -1,0 +1,4 @@
+#!/bin/bash
+#this is my first program
+echo "welcome to my world"
+#end
