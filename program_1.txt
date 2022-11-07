@@ -1,4 +1,4 @@
  #!/bin/bash
- x=100
+ x=1000
  echo $x
  #end
