@@ -1,4 +1,4 @@
  #!/bin/bash
- x=60
+ x=680
  echo $x
  #end
