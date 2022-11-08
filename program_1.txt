@@ -1,4 +1,8 @@
  #!/bin/bash
+<<<<<<< HEAD
  x=680
+=======
+ x=1000
+>>>>>>> feature01
  echo $x
  #end
